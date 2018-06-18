@@ -1,5 +1,5 @@
 {
-	"name"       : "automattic/co-authors-plus",
+	"name"       : "runofthemill/co-authors-plus",
 	"description": "Multiple bylines and Guest Authors for WordPress",
 	"homepage"   : "http://wordpress.org/plugins/co-authors-plus/",
 	"type"       : "wordpress-plugin",
